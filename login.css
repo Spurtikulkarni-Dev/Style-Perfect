@@ -60,9 +60,10 @@ nav {
 }
 
 .auth-box h2 {
-    font-size: 20px;
+    font-size: 40px;
     margin-bottom: 20px;
     color: #333;
+    text-align: center;
 }
 
 .auth-box form {
@@ -74,6 +75,8 @@ nav {
     margin-bottom: 10px;
     font-weight: bold;
     color: #333;
+    font-size: 15px;
+    text-align: center;
 }
 
 .auth-box input[type="text"],
@@ -148,16 +151,14 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
-    margin-left: 600px;
+    margin-left: 400px;
 }
 
 .social-media {
-    margin-right: 500px
+    margin-right: 600px
 }
 
 .social-media img {
-    margin-top: 20px;
     height: 25px;
     width: 25px;
 }
