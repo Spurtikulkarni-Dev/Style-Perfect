@@ -298,7 +298,7 @@ body {
 \*-----------------------------------*/
 
 .container {
-  padding-inline: 15px;
+  padding-inline: 25px;
 }
 
 .section {
@@ -432,7 +432,7 @@ body {
 
 .header-top-list .social-list {
   gap: 20px;
-  padding-block: 15px;
+  padding-block: 10px;
 }
 
 .header-top-list .social-link {
