@@ -42,10 +42,10 @@ nav {
     color: #ffffff;
     font-weight: bold;
 }
-/*
-.menu  li text:hover{
-    background-color: #d0a462 ;
-}*/
+
+.menu  li a:hover{
+    color: #d0a462 ;
+}
 
 
 .container {
