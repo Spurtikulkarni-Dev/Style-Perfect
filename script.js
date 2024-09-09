@@ -21,7 +21,6 @@ const toggleNavbar = () => navbar.classList.toggle("active");
 addEventOnElem(navToggler, "click", toggleNavbar);
 
 const closeNavbar = () => navbar.classList.remove("active");
-
 addEventOnElem(navLinks, "click", closeNavbar);
 
 /*header & back top btn active when scroll down to 100px*/
